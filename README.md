@@ -1,4 +1,7 @@
-### Hi there 👋
+<img align="right" src="https://user-images.githubusercontent.com/53064235/134566838-efeda478-219b-41b5-bbe8-5f60f013adf1.gif" alt="Pineapple gif" width=350px height=465px/>
+
+### Heyo!
+I'm an aspiring Game Developer/Programmer!
 
 <!--
 **FaultyPine/FaultyPine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
